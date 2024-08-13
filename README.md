@@ -1,4 +1,3 @@
-
 <div id="header" align="center">  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUza3pnZzd1OTEzczA2NWkwdHo4bWhoem93cWV1NGNuaXoxaXk0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif" width="150"/>
 </div>
 <div id ="badges" align="center">
@@ -13,19 +12,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-    <img src="https://media.tenor.com/fTsMb0emFWEAAAAi/together-we-can-protect-our-election-system-from-cyber-attack-vrl.gif" width="700" height="400"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrazytech.com%2Fwp-content%2Fuploads%2F2021%2F10%2FTackle-Cybersecurity-Threats-scaled.jpeg&f=1&nofb=1&ipt=cf1c3f49d9015745bc1505aa7fb3fc9a5159dfc174b4fd3a21ee95762fb2aeb4&ipo=images" width="700" height="400"/>
 </div>
 <div id="bio">
 ---
   
 ### :man_technologist: About Me 
-Dedicated Software Engineering graduate with a strong foundation in algorithms and data structures, currently transitioning into cybersecurity with a fervent passion for protecting digital assets. My journey has been marked by hands-on projects that merge my software development skills with my commitment to enhancing security measures.
-
-In the realm of cybersecurity, I have taken significant steps to deepen my expertise. I successfully set up a cloud-based honeypot to simulate real-world attack scenarios, allowing me to collect and analyze data on adversary techniques and methods. This project not only enhanced my understanding of threat actor behavior but also contributed valuable insights to our security team regarding emerging threats.
-
-Additionally, I played a pivotal role in establishing SIEM (Security Information and Event Management) and SOAR (Security Orchestration, Automation, and Response) systems, which have streamlined incident detection and response processes. This integration has increased our team's efficiency in managing security incidents and reduced response times significantly.
-
-Alongside my cybersecurity endeavors, I have completed several projects in C++, focusing on implementing complex algorithms that improve data processing efficiency and solving computational problems. My experience also includes developing Java GUI desktop applications, where I designed user-friendly interfaces to enhance user engagement while ensuring robust functionality.
+I am a Software Engineering graduate with a strong foundation in algorithms, data structures, and desktop application development. Over the past few years, I have developed a deep passion for cybersecurity, which has driven me to gradually transition into this field. My journey into cybersecurity has been marked by hands-on experience with threat intelligence, cloud security, and security operations, where I have successfully integrated my software engineering skills to build and deploy robust security solutions
 
 I am committed to continuous learning and professional growth in the cybersecurity field and am eager to contribute to innovative security solutions. As I expand my skills and knowledge, I am excited to collaborate with like-minded professionals and work on impactful projects that address current and future cybersecurity challenges.
 
@@ -72,8 +65,13 @@ Feel free to connect with me to discuss potential collaborations or to share ins
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   </div>
-  
+
+  ### 👨‍💻 Cybersecurity Projects:
+  - 🍯 Cloud Honey Pot setup and data analysis
+  -  
 </div>
+
+
 
 </div>
 
