@@ -29,7 +29,7 @@ Feel free to connect with me to discuss potential collaborations or to share ins
 
 - :zap: In my free time, I engage in leetcode exersices and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/musaddique-muhammed-sadiq-2b54b119a)
+- :mailbox:How to reach me: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/musaddique-muhammed-sadiq-2b54b119a)
 
 </div>
 <div id="languages and tools">
