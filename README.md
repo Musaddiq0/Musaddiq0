@@ -67,7 +67,7 @@ Feel free to connect with me to discuss potential collaborations or to share ins
   ### 👨‍💻 Cybersecurity Projects:
   - 🍯 Cloud Honey Pot setup and data analysis
   - 🔬 Designed and Implemented Virtual Lab Environment
-  - 🛰️ Vunerability Scanning project
+  - 🛰️ Vunerability Assessment project
 </div>
 
 
